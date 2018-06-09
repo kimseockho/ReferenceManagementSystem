@@ -1,0 +1,10 @@
+@article{grantcharov2004randomized,
+  title={Randomized clinical trial of virtual reality simulation for laparoscopic skills training},
+  author={Grantcharov, Teodor P and Kristiansen, VB and Bendix, Jrgen and Bardram, L and Rosenberg, J and Funch-Jensen, Peter},
+  journal={British journal of surgery},
+  volume={91},
+  number={2},
+  pages={146--150},
+  year={2004},
+  publisher={Wiley Online Library}
+}
